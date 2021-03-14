@@ -10,4 +10,7 @@ subhesding {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-<span style="text-transform:capitalize;">
+body {
+text-transform: none;
+}
+
