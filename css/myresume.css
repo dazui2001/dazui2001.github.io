@@ -12,6 +12,6 @@ font-family: 'Noto Sans TC', sans-serif;
 
 .bg-primary {
     background-color: #726a95 !important;
-    background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
-    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    background-image: url(../assets/img/1003.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
