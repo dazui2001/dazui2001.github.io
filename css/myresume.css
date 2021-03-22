@@ -16,3 +16,12 @@ font-family: 'Noto Sans TC', sans-serif;
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
+.text-primary {
+    color: #726a95 !important;
+}
+
+a {
+    color: #726a95;
+    text-decoration: none;
+    background-color: transparent;
+}
