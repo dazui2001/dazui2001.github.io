@@ -1,5 +1,6 @@
 body {
 font-family: 'Noto Sans TC', sans-serif;
+line-height: 2.5
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -8,6 +9,11 @@ font-family: 'Noto Sans TC', sans-serif;
 
 .subhesding {
 	font-family: 'Noto Sans TC', sans-serif;
+}
+
+p.lead {
+	line-height: 1.8;
+	font-size: 20px;
 }
 
 .bg-primary {
