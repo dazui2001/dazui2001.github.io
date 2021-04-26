@@ -31,3 +31,10 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #0f4c81;
+    font-size: 1.1rem;
+}
