@@ -37,7 +37,7 @@ a {
 div#container {
 	background-color: #726a95;
         padding:0.5rem;
-	background-image:src="assets/img/1002.png" alt=""
+	background-image: url(asset/img/1002.png)
 }
 h3 {
 	color: white;
