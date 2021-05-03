@@ -31,3 +31,6 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+li > a {
+    font-size:200%;
+}
