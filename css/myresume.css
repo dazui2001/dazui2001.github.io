@@ -41,3 +41,13 @@ padding:0.5rem;
 h3 {
 	color: white;
 }
+div.child_div {
+	font-size:1.5rem;
+	background-color:white;
+	margin:0.5rem;
+	padding:0.5rem;
+}
+.child_div p {
+	display:block;
+    margin:0rem;
+}
