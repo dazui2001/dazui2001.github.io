@@ -18,7 +18,7 @@ p.lead {
 
 .bg-primary {
     background-color: #726a95 !important;
-    background-image: url("../assets/img/1002.png");
+    background-image: url("../assets/img/1003.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -37,8 +37,7 @@ a {
 div#container {
 	background-color: #726a95;
         padding:0.5rem;
-	background-image: url("../assets/img/1003.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+	background-image:src="assets/img/1002.png" alt=""
 }
 h3 {
 	color: white;
