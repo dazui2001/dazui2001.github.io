@@ -39,7 +39,7 @@ div#container {
         padding:0.5rem;
 	background-image: url(asset/img/1002.PNG)
 }
-h3 {
+.portfolio {
 	color: white;
 }
 div.child_div {
